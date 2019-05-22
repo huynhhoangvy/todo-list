@@ -19,6 +19,9 @@ Just a simple todo list.
 - [x] Add a checkbox filter to show only done or undone.
 - [x] Persist locally 
 
+## View as
+
+https://hoangvy-todo-list.netlify.com/
 
 The following **additional** features are implemented:
 

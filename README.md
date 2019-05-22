@@ -11,7 +11,7 @@ Just a simple todo list.
 - [x] Add a remove button
 - [x] Add a "done" field
 
-## Optional User Stories
+## Optional Rockets
 
 - [x] Toggle between done and not done
 - [x] Change the Link Text

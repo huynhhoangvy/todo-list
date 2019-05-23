@@ -1,6 +1,4 @@
-let masterTodoList = [];
-
-masterTodoList = JSON.parse(localStorage.getItem("data"));
+let masterTodoList = JSON.parse(localStorage.getItem("data")) || [];
 
 let addItem = () => {
     let itemInput = document.getElementById("itemInput");

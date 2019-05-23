@@ -11,7 +11,7 @@ Just a simple todo list.
 - [x] Add a remove button
 - [x] Add a "done" field
 
-## Optional User Stories
+## Optional Rockets
 
 - [x] Toggle between done and not done
 - [x] Change the Link Text
@@ -19,6 +19,9 @@ Just a simple todo list.
 - [x] Add a checkbox filter to show only done or undone.
 - [x] Persist locally 
 
+## View as
+
+https://hoangvy-todo-list.netlify.com/
 
 The following **additional** features are implemented:
 
